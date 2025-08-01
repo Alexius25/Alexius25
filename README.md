@@ -8,8 +8,7 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexius25&layout=compact&theme=blueberry" />
 </a>
-  <a href="https://discord.com/users/1253059454958567535">
-    <img alt="" src="https://lanyard-profile-readme.vercel.app/api/1253059454958567535?theme=dark&bg=242938&borderRadius=4px&hideActivity=whenNotUsed">
+  [![Discord Presence](https://lanyard.cnrad.dev/api/1253059454958567535)](https://discord.com/users/1253059454958567535)
 </a>
 
 <!---
