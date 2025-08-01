@@ -6,7 +6,6 @@
     <img alt="" height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexius25&layout=compact&theme=blueberry&hide_border=true&count_private=true" />
     <br>
     <br>
-    <br>
     <a href="https://discord.com/users/1253059454958567535"><img alt="" src="https://lanyard-profile-readme.vercel.app/api/1253059454958567535?theme=dark&bg=242938&borderRadius=4px&hideActivity=whenNotUsed"></a>
     <br>
     
