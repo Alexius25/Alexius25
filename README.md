@@ -8,6 +8,7 @@
     <br>
     <a href="https://discord.com/users/1253059454958567535"><img alt="" src="https://lanyard-profile-readme.vercel.app/api/1253059454958567535?theme=dark&bg=242938&borderRadius=4px&hideActivity=whenNotUsed"></a>
     <br>
+    <br>
     
 [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Alexius25&theme=blueberry&hide_border=true)](https://wakatime.com/@Alexius25)
     
