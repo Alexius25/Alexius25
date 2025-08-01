@@ -7,9 +7,8 @@
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexius25&layout=compact&theme=blueberry" />
-</a>
+  
   [![Discord Presence](https://lanyard.cnrad.dev/api/1253059454958567535)](https://discord.com/users/1253059454958567535)
-</a>
 
 <!---
 Alexius25/Alexius25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
