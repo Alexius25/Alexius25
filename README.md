@@ -3,10 +3,10 @@
 - 🐟 Subnautica Modder
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Alexius25&show_icons=true&theme=blueberry&hide_border=true" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Alexius25&show_icons=true&theme=blueberry&hide_border=true&count_private=true" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexius25&layout=compact&theme=blueberry&hide_border=true" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexius25&layout=compact&theme=blueberry&hide_border=true&count_private=true" />
   </a>
   
   <a href="https://discord.com/users/1253059454958567535">
