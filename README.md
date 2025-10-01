@@ -17,7 +17,7 @@ I'm an aspiring and young software developer interested in web development, C#, 
 ### Version Control
 <div align="center">
     <code><img height="50" src="[https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png)" alt="Git" title="Git" /></code>
-    <code><img height="50" src="[https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png)" alt="Git" title="Git" /></code>
+    <code><img height="50" src="[https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png)" alt="GitHub" title="GitHub" /></code>
 </div>
 ## Contact Me
 
