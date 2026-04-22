@@ -3,17 +3,7 @@
 I build practical software and enjoy turning ideas into reliable tools.
 
 ## About Me
-
-- Focused on backend development, automation, and clean developer workflows.
-- Interested in scalable systems, APIs, and productivity tooling.
-- Always learning and shipping.
 - i use Arch btw
-
-## What I'm Working On
-
-- Building and improving personal projects.
-- Strengthening system design and architecture skills.
-- Continuing to build my home lab.
 
 ## Tech Stack
 
@@ -42,13 +32,6 @@ I build practical software and enjoy turning ideas into reliable tools.
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-202020?style=for-the-badge&logo=fastify&logoColor=white)
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-
-
-## My Home Lab
-
-- Running Proxmox with many VMs and containers for testing and learning.
-- Using OpenClaw for automation and orchestration of my home lab environment.
-- Using Jellyfin for media streaming and Nextcloud for file storage.
 
 ## Featured Projects
 
