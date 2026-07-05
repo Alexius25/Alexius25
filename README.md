@@ -1,47 +1,20 @@
 # Hi 👋, I'm Alexander
 
-I build practical software and enjoy turning ideas into reliable tools.
+I build software and enjoy turning ideas into things.
 
 ## About Me
-- i use Arch btw
-
-## Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS%20Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![OpenClaw](https://img.shields.io/badge/OpenClaw-000000?style=for-the-badge&logo=openclaw&logoColor=white)
-
-### Operating Systems
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arch%20Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-### Frameworks
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-202020?style=for-the-badge&logo=fastify&logoColor=white)
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+- I use Arch btw
+- I mod games (Subnautica)
+- I'm a student from Germany
 
 ## Featured Projects
 
 - [OpenShips](https://github.com/OpenShips-org): open-source alternative to VesselFinder or MarineTraffic.
+- [ChipLibrary](https://github.com/Alexius25/ChipLibrary): A subnautica modding library for creating custom equippable chips.
+- [CustomBedsSN](https://github.com/Alexius25/CustomBedsSN): A subnautica mod that allows you to create custom beds with custom models and textures through json or C# code.
 
 ## How To Reach Me
 
-- Email: [`alexander@donner5.de`](mailto:alexander@donner5.de)
+- [Email](mailto:alexander@donner5.de)
 - Discord: `alexius25.`
-
----
-
-Thanks for visiting my profile.
+- [NexusMods Profile](https://www.nexusmods.com/profile/Alexius25)
